@@ -1,0 +1,17 @@
+{
+  "name": "Cilindros",
+  "version": "0.0.1",
+  "description": "Paquetes del frontend",
+  "moduleType": [
+    "globals"
+  ],
+  "authors": [
+    "Luis Fernando Tecuapetla"
+  ],
+  "license": "MIT",
+  "homepage": "cilindros.app",
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "bootstrap-material-design": "~0.3.0"
+  }
+}
